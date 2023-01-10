@@ -85,8 +85,7 @@ body {
 .about-text p {
   margin-bottom: 16px;
 }
-ul {
-}
+
 ul li {
   background: url("./images/icons/list-icon.svg") no-repeat left center;
   padding: 0 0 0 34px;
@@ -136,13 +135,9 @@ ul li {
 .blog-posts img {
   margin-bottom: 30px;
 }
-.blog-posts h3 {
-}
-.blog-posts p {
-}
+
 /* call now styles */
-.call-area {
-}
+
 .call-now {
   padding: 60px 65px;
   background-image: url(./images/watch.png),
